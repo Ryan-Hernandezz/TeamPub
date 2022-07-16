@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+.navbar {
+    list-style: none;
+}
+
+.navbar li {
+    display: inline;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    letter-spacing: 5px;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.navbar li a:hover {
+    color: rgb(0, 255, 98);
+}

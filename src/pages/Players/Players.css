@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.form {
+    text-align: center;
+    margin-right: 50px;
+}
+
+.form p {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+    margin-bottom: 25px;
+}
+
+.player-input {
+    border: none;
+    background-color: rgb(7, 7, 7);
+    color: rgb(0, 255, 98);
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+}
+
+.btn {
+    color: rgb(0, 255, 98);
+    border: none;
+    background-color: rgb(7, 7, 7);
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.p-box {
+    text-align: center;
+    margin-top: 60px;
+}

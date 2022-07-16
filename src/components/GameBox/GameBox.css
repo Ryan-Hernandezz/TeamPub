@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+.game-app {
+    text-align: center;
+}
+
+.game-box {
+    padding: 10px;
+}
+
+.game-box h4 {
+    color: rgb(0, 255, 98);
+    text-decoration: underline;
+}
+
+.game-box h3 {
+    color: rgb(0, 255, 98);
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 5px;
+}
+
+.game-box h5 {
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 4px;
+}
+
+.game-box p {
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 4px;
+}
